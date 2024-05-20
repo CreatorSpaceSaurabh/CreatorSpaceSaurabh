@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Saurabh Udapure 😄 and I'm a Full stack developer 👨‍💻 🚀 from India 🇮🇳. Experienced 💼 with MEAN and MERN stack development 👨‍💻. Proficient in building SaaS based platforms 🌐🛠️️ along with versatile background across domains.</h2>
+<h2 align="left">Hi 👋! My name is Saurabh Udapure 😄 and I'm a Full stack developer 👨‍💻 🚀 from India 🇮🇳. <br/>
+Experienced 💼 with MEAN and MERN stack development 👨‍💻. Proficient in building SaaS based platforms 🌐🛠️️ along with versatile background across domains.</h2>
 
 ###
 
