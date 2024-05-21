@@ -2,27 +2,6 @@
 
 👨‍💻 **Full Stack Developer** | 🌐 **Web Enthusiast** | 🚀 **Tech Explorer**
 From India **🇮🇳**
----
-
-### About Me
-- 💼 Currently working on [E-Learning Application]
-- 🌱 Learning and mastering [DevOps and Cloud]
-- 💡 Passionate about creating innovative solutions and building user-friendly and responsive web applications
-- Proficient in building🛠️ **SaaS** based platforms🌐️ along with exposures in **MEAN** and **MERN** stack development
-- 🔧 Skilled in:
-  - **Frontend:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Angular, Next.js
-  - **Backend:** Node.js, Express, Sanity.io, firebase
-  - **Databases:** MongoDB
-  - **DevOps:** Docker, AWS, Azure, Netlify, Vercel
-- 📫 How to reach me: [saurabhudapure1996@gmail.com]
-
----
-
-
-### Let's Connect!
-- 🌐 [Portfolio](https://creatorspacesaurabh.netlify.app/)
-- 🐦 [Linktree](https://linktr.ee/CreatorSpaceSaurabh)
-- 💼 [LinkedIn](https://www.linkedin.com/in/saurabhudapure)
 
 ---
 
@@ -86,6 +65,27 @@ From India **🇮🇳**
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+---
+
+### About Me
+- 💼 Currently working on [E-Learning Application]
+- 🌱 Learning and mastering [DevOps and Cloud]
+- 💡 Passionate about creating innovative solutions and building user-friendly and responsive web applications
+- Proficient in building🛠️ **SaaS** based platforms🌐️ along with exposures in **MEAN** and **MERN** stack development
+- 🔧 Skilled in:
+  - **Frontend:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Angular, Next.js
+  - **Backend:** Node.js, Express, Sanity.io, firebase
+  - **Databases:** MongoDB
+  - **DevOps:** Docker, AWS, Azure, Netlify, Vercel
+- 📫 How to reach me: [saurabhudapure1996@gmail.com]
+
+---
+
+### Let's Connect!
+- 🌐 [Portfolio](https://creatorspacesaurabh.netlify.app/)
+- 🐦 [Linktree](https://linktr.ee/CreatorSpaceSaurabh)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabhudapure)
 
 ---
 
