@@ -69,8 +69,8 @@ From India **🇮🇳**
 ---
 
 ### About Me
-- 💼 Currently working on [E-Learning Application]
-- 🌱 Learning and mastering [DevOps and Cloud]
+- 💼 Currently working on Task management Application
+- 🌱 Learning and mastering DevOps and Cloud
 - 💡 Passionate about creating innovative solutions and building user-friendly and responsive web applications
 - Proficient in building🛠️ **SaaS** based platforms🌐️ along with exposures in **MEAN** and **MERN** stack development
 - 🔧 Skilled in:
