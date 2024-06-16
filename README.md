@@ -69,7 +69,7 @@ From India **🇮🇳**
 ---
 
 ### About Me
-- 💼 Currently working on Task management Application
+- 💼 Currently working on Task management Application(Ref. JIRA)
 - 🌱 Learning and mastering DevOps and Cloud
 - 💡 Passionate about creating innovative solutions and building user-friendly and responsive web applications
 - 🛠️ Proficient in building **SaaS** based platforms🌐️ along with exposures in **MEAN** and **MERN** stack development
